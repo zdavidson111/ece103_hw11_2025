@@ -1,4 +1,5 @@
-// This main program does not need to be modified at all
+// DO NOT modify this file while working on the assignment.
+// Well, nothing bad will happen if you do modify it.
 #include "external_data.h"
 #include "process_data.h"
 
