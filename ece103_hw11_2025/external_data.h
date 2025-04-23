@@ -2,7 +2,7 @@
 #ifndef _external_data_h
 #define _external_data_h
 
-constexpr char homework_version[] = "3.01";
+constexpr char homework_version[] = "3.02";
 
 extern char nickname_list[25][50];
 
