@@ -7,7 +7,7 @@
 #define _external_data_h
 
 constexpr char homework_version[] = "3.05";
-// This is the version of the homework project updated on April 24, 2025
+// This is the version of the homework project updated on April 26, 2025
 
 // The instrctor will do his best to update this file every day until the assignment is due.
 
